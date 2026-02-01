@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Numerus</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="next">Next</string>
+    <string name="check">Check</string>
+    <string name="repeat">Repeat</string>
+    <string name="report">Report</string>
+    <string name="reported_message">The exercise was reported</string>
+</resources>
