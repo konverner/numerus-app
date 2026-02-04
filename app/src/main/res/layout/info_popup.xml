@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="App Information"
+        android:text="About"
         android:textSize="18sp"
         android:textStyle="bold"
         android:textColor="?android:attr/textColorPrimary" />
@@ -19,7 +19,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="This app helps you practice listening to numbers in different languages."
+        android:text="Contact: konst.verner@gmail.com\nVersion: 2.0.0"
         android:textColor="?android:attr/textColorPrimary" />
-
 </LinearLayout>

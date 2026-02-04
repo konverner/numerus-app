@@ -41,7 +41,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:hint="Type at least one number you hear, e.g. 42"
+        android:hint="At least one number you hear, e.g. 42"
         android:inputType="number"
         android:digits="0123456789"
         android:imeOptions="actionDone"
