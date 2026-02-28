@@ -43,3 +43,7 @@ The idea is the following: user choose language then
 [Video demo on YouTube](https://www.youtube.com/watch?v=GldkTFy5_Hk)
 
 <img src="screenshots/main_screen.jpg" alt="Image 1" width="200"/> <img src="screenshots/check_screen.jpg" alt="Image 2" width="200"/> <img src="screenshots/languages_choice.jpg" alt="Image 3" width="200"/>
+
+## Data
+
+All exercies in the app are gited and sourced from [Numerus Data Repository](https://github.com/konverner/numerus-data).

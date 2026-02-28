@@ -1,0 +1,17 @@
+Oral comprehension of numbers in foreign languages can be challenging. Here’s why:
+
+1. Frequency of numbers in ordinary discourse is usually low, so learners struggle to develop a habit of listening to numbers.
+2. Most words are easy to recognize due to context, whereas numbers are isolated. For example:
+   With a population of 8 804 190, New York City is the most populated city in the US.
+   The context helps only a little: you can guess millions, but thousands are essentially random.
+3. Some languages construct numerals differently. For example, how to say 95:
+   English: ninety five (90 5)
+   German: fünfundneunzig (5 and 90)
+   French: quatre-vingt-quinze (4-20-15)
+
+The best way to train comprehension is frequent exposure to numbers in real speech. This app provides that:
+
+1. A random 10-second clip from a video plays and repeats.
+2. The user types the number they heard and taps “check”.
+3. Subtitles appear and the app shows whether the answer is correct.
+4. The user taps “next” to continue.
