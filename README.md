@@ -1,7 +1,13 @@
 # Numerus: Numbers in Languages
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200"/>](https://play.google.com/store/apps/details?id=xyz.numerus&pcampaignid=web_share&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=xyz.numerus&pcampaignid=web_share&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>
+  </a>
+  <a href="https://f-droid.org/en/packages/xyz.numerus/">
+    <img src="https://user-content.gitlab-static.net/3742210500c06edb1142cec1487fac4a2b5b50aa/68747470733a2f2f662d64726f69642e6f72672f62616467652f6765742d69742d6f6e2e706e67" width="200"/>
+  </a>
+</p>
 
 ## Introduction
 
