@@ -48,7 +48,7 @@ The idea is the following: user choose language then
 
 [Video demo on YouTube](https://www.youtube.com/watch?v=GldkTFy5_Hk)
 
-<img src="screenshots/main_screen.jpg" alt="Image 1" width="200"/> <img src="screenshots/check_screen.jpg" alt="Image 2" width="200"/> <img src="screenshots/languages_choice.jpg" alt="Image 3" width="200"/>
+<img src="https://github.com/konverner/numerus-app/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/main_screen_light.jpg" alt="Image 1" width="200"/> <img src="https://github.com/konverner/numerus-app/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/check_screen_dark.jpg" alt="Image 2" width="200"/> <img src="https://github.com/konverner/numerus-app/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/language_choice_light.jpg" alt="Image 3" width="200"/>
 
 ## Data
 
